@@ -1,0 +1,9 @@
+- 👋 Oi, eu sou o Fernando
+- 👀 Tenho interesse em muitas coisas sobre tecnologia
+- 🌱 Atualmente muito interessado em linguagens de programção, principalmente Python para Análise de Dados
+- 💞️ No que eu puder colaborar por aqui, e bem devagarinho as coisas vão acontecendo...
+- 📫 Meu lazer é a família, os filhos e leituras e adquirir conhecimento
+- 😄 è nosso...
+- ⚡ A vida como ela é...
+
+<!--- eu ainda atrapalhado com o compartilhar meu diretório local, já que o método de identificação não é mais usuário e senha --->
